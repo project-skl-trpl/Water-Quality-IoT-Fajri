@@ -1,0 +1,698 @@
+{
+    "sensors": {
+        "device_01": {
+            "current": {
+                "ph": 2.555556,
+                "tds": 0,
+                "timestamp": 1348,
+                "turbidity": 1.315812
+            },
+            "logs": {
+                "-OmIjqcDQlKTTLwkbk_a": {
+                    "ph": 3.169303,
+                    "tds": 0,
+                    "timestamp": 12,
+                    "turbidity": 1.804824
+                },
+                "-OmIjtWEKbu77M53DW1V": {
+                    "ph": 2.81859,
+                    "tds": 0,
+                    "timestamp": 24,
+                    "turbidity": 2.019817
+                },
+                "-OmIjwPdSPBKzNqvGDuB": {
+                    "ph": 2.722941,
+                    "tds": 0,
+                    "timestamp": 36,
+                    "turbidity": 2.270056
+                },
+                "-OmIjzIzXxlYdNkNXniw": {
+                    "ph": 2.678305,
+                    "tds": 0,
+                    "timestamp": 48,
+                    "turbidity": 2.393868
+                },
+                "-OmIk1CQSuUNTlT7kcPI": {
+                    "ph": 2.652464,
+                    "tds": 0,
+                    "timestamp": 59,
+                    "turbidity": 2.460041
+                },
+                "-OmIk45kEpjBh9pSGIh9": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 71,
+                    "turbidity": 2.60909
+                },
+                "-OmIk6zvWP-eM9TOOJ59": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 83,
+                    "turbidity": 2.716232
+                },
+                "-OmIk9t9vDT2UC9aO3jf": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 95,
+                    "turbidity": 2.703314
+                },
+                "-OmIkCm5lsHGvAxoRIQt": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 107,
+                    "turbidity": 2.672511
+                },
+                "-OmIkFfAEd9sUZNYwBzx": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 119,
+                    "turbidity": 2.650342
+                },
+                "-OmIkIeo7nEg6pZHgroP": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 131,
+                    "turbidity": 2.628414
+                },
+                "-OmIkL6XO-MDjk3j1WQG": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 141,
+                    "turbidity": 2.602761
+                },
+                "-OmIkOLaIt79FC8Ubpr9": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 153,
+                    "turbidity": 2.581223
+                },
+                "-OmIkQegsb3HZuoJJX8n": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 163,
+                    "turbidity": 2.544726
+                },
+                "-OmIkTiZDjFKi-D-kNxr": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 176,
+                    "turbidity": 2.469716
+                },
+                "-OmIkW0hcRPK15US0A2W": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 186,
+                    "turbidity": 2.476107
+                },
+                "-OmIkYvD2pIcKctQbWiT": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 198,
+                    "turbidity": 2.559986
+                },
+                "-OmIkau6y3lYpOnVJL1A": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 209,
+                    "turbidity": 2.636704
+                },
+                "-OmIkdy6WIyePebRifKS": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 222,
+                    "turbidity": 2.720043
+                },
+                "-OmIkgxGi1YmzT2CKjRG": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 235,
+                    "turbidity": 2.806545
+                },
+                "-OmIkjqlckfo8SxswmNG": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 246,
+                    "turbidity": 2.896718
+                },
+                "-OmIkmjl4rkX6s2UjhQ5": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 258,
+                    "turbidity": 2.880093
+                },
+                "-OmIkpcpVNniO7OwYnRw": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 270,
+                    "turbidity": 2.867269
+                },
+                "-OmIksX2d6q5D2B5D389": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 282,
+                    "turbidity": 2.810593
+                },
+                "-OmIkvQ9nlR-I_ytrKN1": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 294,
+                    "turbidity": 2.767068
+                },
+                "-OmIkyJ7lEtsuxGTO16o": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 306,
+                    "turbidity": 2.70643
+                },
+                "-OmIl0LBr-V2ZzjsmozB": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 318,
+                    "turbidity": 2.674695
+                },
+                "-OmIl3EfRWpebNg2Vt04": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 330,
+                    "turbidity": 2.668791
+                },
+                "-OmIl67y3hHe6fEH2vm1": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 342,
+                    "turbidity": 2.713916
+                },
+                "-OmIl9178tuhqx4L1tLm": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 354,
+                    "turbidity": 2.785291
+                },
+                "-OmIlBvd3RtwtHEEHwew": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 366,
+                    "turbidity": 2.783905
+                },
+                "-OmIlEoyO5lC_rVVgy2n": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 377,
+                    "turbidity": 2.810872
+                },
+                "-OmIlHhuidoOzBskdaGc": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 389,
+                    "turbidity": 2.734256
+                },
+                "-OmIlKbFF9EIFoi7ZJjO": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 401,
+                    "turbidity": 2.696445
+                },
+                "-OmIlNVn1AD97hsoevbq": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 413,
+                    "turbidity": 2.541349
+                },
+                "-OmIlQP6tGZjGSyrxocc": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 425,
+                    "turbidity": 2.285848
+                },
+                "-OmIlTIE0dNiAIX4zQXW": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 437,
+                    "turbidity": 1.967136
+                },
+                "-OmIlWBYS4En70YOjRBP": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 449,
+                    "turbidity": 1.736061
+                },
+                "-OmIlZ4yNwgv2YQnT-Br": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 460,
+                    "turbidity": 1.476762
+                },
+                "-OmIlaz5XWnKcH3x5a0k": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 472,
+                    "turbidity": 1.312312
+                },
+                "-OmIldsBCV6c_6Y3oEeY": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 484,
+                    "turbidity": 1.305868
+                },
+                "-OmIlglJOOmTGFW9YOPW": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 496,
+                    "turbidity": 1.302325
+                },
+                "-OmIljeM5ji9qj09txZ8": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 508,
+                    "turbidity": 1.299021
+                },
+                "-OmIlmYQ_cf7wOfn7g_V": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 520,
+                    "turbidity": 1.29951
+                },
+                "-OmIlpRlYM7R2L-IF6NZ": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 532,
+                    "turbidity": 1.302204
+                },
+                "-OmIlsQgIbibEDMIu6Y7": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 543,
+                    "turbidity": 1.304839
+                },
+                "-OmIlvMgmnvjgt6e_G7k": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 556,
+                    "turbidity": 1.307004
+                },
+                "-OmIlyGErdsRKhCLJtp0": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 568,
+                    "turbidity": 1.308288
+                },
+                "-OmIm09UqyJYTrsuMG7W": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 579,
+                    "turbidity": 1.309395
+                },
+                "-OmIm32R2ZxbDUZNS_48": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 591,
+                    "turbidity": 1.308653
+                },
+                "-OmIm5winijK-pYcLiC6": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 603,
+                    "turbidity": 1.308734
+                },
+                "-OmIm90HpfUAyFFdEBAK": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 615,
+                    "turbidity": 1.310085
+                },
+                "-OmImBuv-PsAIcvH7Nmr": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 628,
+                    "turbidity": 1.309806
+                },
+                "-OmImEo7WBpcCVWZsqQj": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 640,
+                    "turbidity": 1.308987
+                },
+                "-OmImHiO9cKwSF6-zIi8": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 651,
+                    "turbidity": 1.31058
+                },
+                "-OmImKbbugq_jtrwYrH_": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 663,
+                    "turbidity": 1.311638
+                },
+                "-OmImO2iaFZmURYBnM6S": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 675,
+                    "turbidity": 1.312379
+                },
+                "-OmImQQNWZF4IKsI-pn8": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 687,
+                    "turbidity": 1.313215
+                },
+                "-OmImTT012r4JsKqsH0O": {
+                    "ph": 2.555556,
+                    "tds": 0.110792,
+                    "timestamp": 699,
+                    "turbidity": 1.339977
+                },
+                "-OmImWMNRpDWPa6ngnQV": {
+                    "ph": 4.248908,
+                    "tds": 0.583857,
+                    "timestamp": 711,
+                    "turbidity": 1.567754
+                },
+                "-OmImZFcxcdI9SDcjKYo": {
+                    "ph": 5.412228,
+                    "tds": 1.075862,
+                    "timestamp": 723,
+                    "turbidity": 1.692399
+                },
+                "-OmImbo5s4o5sHAyoQyM": {
+                    "ph": 9.070986,
+                    "tds": 1.075862,
+                    "timestamp": 735,
+                    "turbidity": 1.456835
+                },
+                "-OmIme0VqhagnrNWkxMn": {
+                    "ph": 11.82099,
+                    "tds": 1.075862,
+                    "timestamp": 747,
+                    "turbidity": 1.287551
+                },
+                "-OmImgvA8kYlyecfTm-d": {
+                    "ph": 14,
+                    "tds": 1.138918,
+                    "timestamp": 759,
+                    "turbidity": 1.057322
+                },
+                "-OmImjo7M6gvlRTlqc7M": {
+                    "ph": 14,
+                    "tds": 0.703218,
+                    "timestamp": 771,
+                    "turbidity": 0.655361
+                },
+                "-OmImmhCk3tVwf96dnk-": {
+                    "ph": 14,
+                    "tds": 0.146656,
+                    "timestamp": 782,
+                    "turbidity": 0.17109
+                },
+                "-OmImpazFYsqgPIXU2lV": {
+                    "ph": 14,
+                    "tds": 0.063056,
+                    "timestamp": 794,
+                    "turbidity": 0.181026
+                },
+                "-OmImsVy2ujYJHA03_BE": {
+                    "ph": 14,
+                    "tds": 0.063056,
+                    "timestamp": 806,
+                    "turbidity": 0.181281
+                },
+                "-OmImvQzr29vcg9oQULJ": {
+                    "ph": 14,
+                    "tds": 0,
+                    "timestamp": 818,
+                    "turbidity": 0.185883
+                },
+                "-OmImyQe51vOYlLQd9Fg": {
+                    "ph": 14,
+                    "tds": 0,
+                    "timestamp": 830,
+                    "turbidity": 0.185515
+                },
+                "-OmIn0JjAmmgEDYX9NKB": {
+                    "ph": 14,
+                    "tds": 0,
+                    "timestamp": 842,
+                    "turbidity": 0.424197
+                },
+                "-OmIn3D1vR7_gzs8tmJP": {
+                    "ph": 14,
+                    "tds": 0,
+                    "timestamp": 854,
+                    "turbidity": 0.649494
+                },
+                "-OmIn66iiBOFR1q2aBgQ": {
+                    "ph": 12.63889,
+                    "tds": 0,
+                    "timestamp": 866,
+                    "turbidity": 0.875396
+                },
+                "-OmIn90-KgHMPynhQRWj": {
+                    "ph": 8.972221,
+                    "tds": 0,
+                    "timestamp": 878,
+                    "turbidity": 1.098652
+                },
+                "-OmInBuG8t1vUYg_Ntgk": {
+                    "ph": 5.307421,
+                    "tds": 0,
+                    "timestamp": 890,
+                    "turbidity": 1.320575
+                },
+                "-OmInEnTPknpHfdYalEM": {
+                    "ph": 2.557421,
+                    "tds": 0,
+                    "timestamp": 902,
+                    "turbidity": 1.306475
+                },
+                "-OmInHg_yIypXW5XTDdX": {
+                    "ph": 2.557421,
+                    "tds": 0,
+                    "timestamp": 913,
+                    "turbidity": 1.304361
+                },
+                "-OmInK_o8y6VY2pT0LHT": {
+                    "ph": 2.557421,
+                    "tds": 0,
+                    "timestamp": 925,
+                    "turbidity": 1.299604
+                },
+                "-OmInNUEvqa3B-mOvoT1": {
+                    "ph": 2.557421,
+                    "tds": 0,
+                    "timestamp": 937,
+                    "turbidity": 1.296404
+                },
+                "-OmInQNT7seYKk621Ges": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 949,
+                    "turbidity": 1.297809
+                },
+                "-OmInTH3rqt9LYpKx9Hk": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 961,
+                    "turbidity": 1.304479
+                },
+                "-OmInWB84lxrnMlDfuUx": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 973,
+                    "turbidity": 1.305065
+                },
+                "-OmInZ4EMGOoPa1FE0lA": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 985,
+                    "turbidity": 1.306115
+                },
+                "-OmInb2XxQHU1Ebmofby": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 997,
+                    "turbidity": 1.31048
+                },
+                "-OmIndwygLEKG5sVj658": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1009,
+                    "turbidity": 1.310499
+                },
+                "-OmIngq8LKIy6UhHDRwv": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1021,
+                    "turbidity": 1.300965
+                },
+                "-OmInkAyfJn6VW8TX_YV": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1032,
+                    "turbidity": 1.301723
+                },
+                "-OmInmOKYepHWfos73Kc": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1043,
+                    "turbidity": 1.301256
+                },
+                "-OmInpHrQgrSAOKopXKD": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1055,
+                    "turbidity": 1.298083
+                },
+                "-OmInsBAIiXsG9-Proer": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1067,
+                    "turbidity": 1.296584
+                },
+                "-OmInv4S6vnJDvrTA4Xj": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1079,
+                    "turbidity": 1.29843
+                },
+                "-OmInxymKaEC0zZBPh0Y": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1091,
+                    "turbidity": 1.300622
+                },
+                "-OmIo-ryvILBOsYGc6TA": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1103,
+                    "turbidity": 1.303525
+                },
+                "-OmIo2lHcoMhgY40ySYI": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1114,
+                    "turbidity": 1.306907
+                },
+                "-OmIo5ekndyaQ5PgipMX": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1126,
+                    "turbidity": 1.308774
+                },
+                "-OmIo8Z3knJ1SBFh5zfq": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1138,
+                    "turbidity": 1.309913
+                },
+                "-OmIoBSBq_4AEcaCxzEk": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1150,
+                    "turbidity": 1.30867
+                },
+                "-OmIoEcj3kx4U6ClPHO9": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1162,
+                    "turbidity": 1.306985
+                },
+                "-OmIoGqCsX-oe9oBl44e": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1172,
+                    "turbidity": 1.306899
+                },
+                "-OmIoJpIHIBHJVRMRVe2": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1184,
+                    "turbidity": 1.30849
+                },
+                "-OmIoMiPK2XW2QBhEclu": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1196,
+                    "turbidity": 1.310112
+                },
+                "-OmIoPcAasgEKaSXULYl": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1208,
+                    "turbidity": 1.312119
+                },
+                "-OmIoSWMUP7JuTpjiAhO": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1220,
+                    "turbidity": 1.313061
+                },
+                "-OmIoVPU6xg1uo4K_3Mr": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1232,
+                    "turbidity": 1.313577
+                },
+                "-OmIoYJ-qhXTt6FjMAI0": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1244,
+                    "turbidity": 1.313757
+                },
+                "-OmIoaCNwf_YTnkdM50F": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1256,
+                    "turbidity": 1.314047
+                },
+                "-OmIodlmwMgK_18NOto1": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1267,
+                    "turbidity": 1.313881
+                },
+                "-OmIofz5JKJMgEk66D9R": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1279,
+                    "turbidity": 1.314278
+                },
+                "-OmIoiyAaR3SVJVQBBwt": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1291,
+                    "turbidity": 1.314867
+                },
+                "-OmIolJa6sJ7Ysm2kCFD": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1301,
+                    "turbidity": 1.315299
+                },
+                "-OmIooCmsJvxzI4Mc5h8": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1313,
+                    "turbidity": 1.315366
+                },
+                "-OmIor5lg70qhoR3X7UI": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1325,
+                    "turbidity": 1.315587
+                },
+                "-OmIou-8c1xESlexDUJA": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1337,
+                    "turbidity": 1.31582
+                },
+                "-OmIowtFpjx-AkWM58aB": {
+                    "ph": 2.555556,
+                    "tds": 0,
+                    "timestamp": 1348,
+                    "turbidity": 1.315812
+                }
+            }
+        }
+    }
+}
